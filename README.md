@@ -26,7 +26,7 @@ You can install this from the [Chrome Webstore])(#) (Pending Approval Currently)
 
 ## Usage
 
-1.  Go to any Bluesky post (e.g., `[Jay's Skeet to not let Skeets rule the nomenclature](https://bsky.app/profile/jay.bsky.team/post/3juflvnb3d62u)`).
+1.  Go to any Bluesky post (e.g., [Jay's Skeet to not let Skeets rule the nomenclature](https://bsky.app/profile/jay.bsky.team/post/3juflvnb3d62u)).
 2.  Click the extension's button in your toolbar.
 3.  The modified `fxbsky.app` link will be copied to your clipboard.
 
