@@ -22,7 +22,7 @@ The extension adds a button to your Chrome toolbar. When you're on a Bluesky pag
 The extension will now be installed and a button will appear in your toolbar.
 
 ## Installation
-You can install this from the [Chrome Webstore])(#) (Pending Approval Currently)
+You can install this from the [Chrome Webstore](#) (Pending Approval Currently)
 
 ## Usage
 
